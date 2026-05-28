@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LunaX//Real Estate AI Challenge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reai-challenge-2026-07-21@reaichallenge.com
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=America/Chicago:20260721T110000
+DTEND;TZID=America/Chicago:20260721T160000
+RRULE:FREQ=DAILY;COUNT=3
+SUMMARY:Real Estate AI Challenge — 3-Day Live Event
+LOCATION:https://events.zoom.us/ej/AlZCKkF8svS03hZsAGS8KNobaz7rzdN09qvIapqx__32Q1DABtFk~A1hy70iRL3v2FIrG-_IkGDOI8IbsL27gw-TC5nKSqmMjVx77yy-iASQFNQoTw
+URL:https://reaichallenge.com/
+DESCRIPTION:The AI Revolution is here. Real estate pros who act now will 10x their results.\n\nHosted by Vanessa Alfaro\, CEO of Venus Capital.\n\nJOIN VIA ZOOM:\nhttps://events.zoom.us/ej/AlZCKkF8svS03hZsAGS8KNobaz7rzdN09qvIapqx__32Q1DABtFk~A1hy70iRL3v2FIrG-_IkGDOI8IbsL27gw-TC5nKSqmMjVx77yy-iASQFNQoTw\n\nEVENT PAGE: https://reaichallenge.com/\n\nWHAT YOU'LL BUILD IN 3 DAYS:\n\nDAY 1 — ACQUISITION DOMINANCE\nAI-powered deal screening across MLS\, Zillow\, LoopNet & off-market. Instant underwriting in seconds.\n\nDAY 2 — CAPITAL & DEAL ACCESS\nAI-generated pitch decks\, automated outreach\, 24/7 lead gen.\n\nDAY 3 — OPERATIONAL CONTROL\nAI-powered CRM\, marketing\, tenant management. Cut overhead\, 10x output.\n\nSPEAKERS: Vanessa Alfaro\, Melissa Elizondo\, Chris Barry\, Bonny Wayman.\n\nIt's AI or die in 2026. See you inside.
+END:VEVENT
+END:VCALENDAR
